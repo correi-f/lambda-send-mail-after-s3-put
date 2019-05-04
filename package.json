@@ -1,15 +1,14 @@
 {
-    "name": "lambda-send-mail-after-s3-put",
-    "version": "1.0.0",
-    "description": "Lambda AWS d'envoi de mail lors de la creation de fichier dans un S3",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "fcorreia",
-    "license": "ISC",
-    "dependencies": {
-      "nodemailer": "^6.1.1"
-    }
+  "name": "lambda-send-mail-after-s3-put",
+  "version": "1.0.0",
+  "description": "Lambda AWS d'envoi de mail lors de la creation de fichier dans un S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fcorreia",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.1.1"
   }
-  
+}
